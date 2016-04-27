@@ -6759,4 +6759,8 @@ button.close {
     display: none !important;
   }
 }
+
+.carousel-caption{
+    font-family: serif;
+}
 /*# sourceMappingURL=bootstrap.css.map */
